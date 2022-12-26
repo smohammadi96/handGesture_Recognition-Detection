@@ -24,7 +24,7 @@ pip install -r requirements.txt
 if you want to use pretrained models, use command below.
 
 ```
-python hand_gesture_main_program.py
+python main.py
 ```
 
 but if you want to train again the models follow steps below:
