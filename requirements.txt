@@ -1,0 +1,12 @@
+tensorflow
+tfLearn
+Imutils
+opencv-python
+numpy
+olefile
+pillow
+PyAutoGUI
+PyMsgBox
+PyScreeze
+PyTweening
+Tkinter
