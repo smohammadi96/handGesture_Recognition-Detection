@@ -14,19 +14,9 @@ our project contains 5 parts that 3 parts are Implementation of CNN network and 
 
 **Requirements:**
 
-> python or python3 
-> Tensorflow
-> TfLearn
-> Imutils
-> Opencv
-> Numpy
-> olefile
-> Pillow
-> PyAutoGUI
-> PyMsgBox
-> PyScreeze
-> PyTweening
-> Tkinter
+```
+pip install -r requirements.txt
+```
 
 
 ## How to run
